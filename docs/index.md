@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Technology"
-  text: "Club"
+  name: "Tech"
+  text: "Forward"
   tagline: A club to find out new technologies to improve productivity and quality of work
   actions:
     - theme: brand

@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/techforward/",
-  title: "Technology Club",
+  title: "TechForward",
   description: "A club to find out new technologies to improve productivity and quality of work",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -36,8 +36,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: "Released under the MIT License.",
-      copyright: "Copyright © 2022-present Adocs",
+      copyright: `Copyright © 2023-${new Date().getFullYear()} Brett Ormsby`,
     },
   },
 
