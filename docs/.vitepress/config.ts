@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/techforward/",
   title: "Technology Club",
   description: "A club to find out new technologies to improve productivity and quality of work",
   themeConfig: {
