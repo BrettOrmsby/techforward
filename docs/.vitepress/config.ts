@@ -43,9 +43,9 @@ export default defineConfig({
 
   
   head: [
-    ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/icon.svg"}],
-    ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/icon.svg"}],
-    ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/icon.svg"}],
-    ['link', { rel: "shortcut icon", href: "/icon.svg"}],
+    ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/techforward/icon.svg"}],
+    ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/techforward/icon.svg"}],
+    ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/techforward/icon.svg"}],
+    ['link', { rel: "shortcut icon", href: "/techforward/icon.svg"}],
   ],
 })
