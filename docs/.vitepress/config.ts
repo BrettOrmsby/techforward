@@ -7,7 +7,7 @@ export default defineConfig({
   description: "A club to find out new technologies to improve productivity and quality of work",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '../icon.svg',
+    logo: '/icon.svg',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Calendar', link: '/introduction/calendar' }
