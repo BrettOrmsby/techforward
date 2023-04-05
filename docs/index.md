@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "Technology"
-  text: "Description"
-  tagline: My great project tagline
+  text: "Club"
+  tagline: A club to find out new technologies to improve productivity and quality of work
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Course Introduction
+      link: /introduction/course-introduction
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Calendar
+      link: /introduction/calendar
 
 features:
-  - title: Feature A
+  - title: Cutting Edge Technology
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: Cut To The Chase
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Discovery Time
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
