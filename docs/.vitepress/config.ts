@@ -31,10 +31,6 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ],
-
     footer: {
       copyright: `Copyright © 2023-${new Date().getFullYear()} Brett Ormsby`,
     },

@@ -15,11 +15,17 @@ hero:
       link: /introduction/calendar
 
 features:
-  - title: Cutting Edge Technology
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Cut To The Chase
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Discovery Time
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Real-world Applications
+    icon:
+      src: /real-word-applications.svg
+    details: Transversal skills, applicable at school and later in the work-force
+  - title: Wide range of Skills
+    details: Diverse range of topics allows everyone to learn something new
+    icon:
+      src: /wide-range.svg
+  - title: No Obligations
+    details: Show up only on lessons you want to learn
+    icon:
+      src: /no-obligations.svg
 ---
 
