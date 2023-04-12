@@ -24,8 +24,9 @@ export default defineConfig({
       {
         text: 'Days',
         items: [
-          { text: 'Google Slides', link: '/days/google-slides' },
-          { text: 'Chat GPT', link: '/days/chat-gpt' },
+          { text: 'DALL-E', link: '/days/dall-e' },
+          { text: 'Presentational Software', link: '/days/presentational-software' },
+          { text: 'ChatGPT', link: '/days/chatgpt' },
           { text: 'Programming', link: '/days/programming' }
         ]
       }
