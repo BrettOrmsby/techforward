@@ -24,10 +24,12 @@ export default defineConfig({
       {
         text: 'Days',
         items: [
-          { text: 'DALL-E', link: '/days/dall-e' },
+          { text: 'AI Art', link: '/days/ai-art' },
           { text: 'Presentational Software', link: '/days/presentational-software' },
-          { text: 'ChatGPT', link: '/days/chatgpt' },
-          { text: 'Programming', link: '/days/programming' }
+          { text: 'ChatGPT Part 1', link: '/days/chatgpt1' },
+          { text: 'ChatGPT Part 2', link: '/days/chatgpt2' },
+          { text: 'Programming Part 1', link: '/days/programming1' },
+          { text: 'Programming Part 2', link: '/days/programming2' }
         ]
       }
     ],

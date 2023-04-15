@@ -1,4 +1,4 @@
-# Programming
+# Introduction to Programming
 
 ::: info
 [Slide Show](https://docs.google.com/presentation/d/19Y9Kt1eOIOL5igpl26stKr-i17rd3SW3_JWVSuMNbaE/edit?usp=sharing)
