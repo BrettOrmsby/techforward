@@ -19,7 +19,7 @@ You are ethically responsible for the images you generate. **DO NOT** prompt for
 1. **Subject** - The main thing you want to see in the image
 2. **Medium** - Material used to create the image (oil painting)
 3. **Style** - Artistic style of the artwork (impressionist)
-4. **Artist** - Real artists names to make image based off their work
+4. **Artist** - Real artists names to make image based off their work ([list](https://stablediffusion.fr/artists))
 5. **Website** - Some websites might makes the artwork better (artstation)
 6. **Resolution** - How sharp and detailed the image is (highly detailed)
 7. **Additional details** - More details to change some image features (fantasy)
