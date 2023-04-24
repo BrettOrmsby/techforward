@@ -26,8 +26,7 @@ export default defineConfig({
         items: [
           { text: 'AI Art', link: '/days/ai-art' },
           { text: 'Presentational Software', link: '/days/presentational-software' },
-          { text: 'ChatGPT Part 1', link: '/days/chatgpt1' },
-          { text: 'ChatGPT Part 2', link: '/days/chatgpt2' },
+          { text: 'ChatGPT', link: '/days/chatgpt' },
           { text: 'Programming Part 1', link: '/days/programming1' },
           { text: 'Programming Part 2', link: '/days/programming2' }
         ]
