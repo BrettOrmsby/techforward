@@ -5,7 +5,7 @@
 :::
 
 ::: warning
-You are ethically responsible for the images you generate. **DO NOT** prompt for any images that are inappropriate for school, are damaging to other people, cultures, races or display any other unethical content. You may accidentally get inappropriate (likely revealing) content from the prompts, but you are responsible for not using that content.
+You are ethically responsible for the images you generate. **DO NOT** prompt for any images that are inappropriate for school, are damaging to other people, cultures, races or display any other unethical content. You may accidentally get inappropriate content from the prompts but are responsible for not using that content and are heavily advised to limit the chances by using a negative prompt (`nsfw`).
 :::
 
 ## Stable Diffusion
